@@ -23,45 +23,15 @@ This project helps beginners understand loops, conditional statements, user inpu
 
 ⭐ 1. Pattern Generator
 
-Input:
-
-Enter your choice: 1
-Enter the number of rows: 5
-
-Output:
-
-Pattern:
-*
-**
-***
-****
-*****
+![Project Output](patternoutput.png)
 
 🔢 2. Number Analyzer
 
-Input:
-
-Enter your choice: 2
-Enter the start of the range: 10
-Enter the end of the range: 15
-
-Output:
-
-Number 10 is Even
-Number 11 is Odd
-Number 12 is Even
-Number 13 is Odd
-Number 14 is Even
-Number 15 is Odd
-
-Even numbers: [10, 12, 14]
-Odd numbers: [11, 13, 15]
-Sum of all numbers: 75
+![Project Output](outputrange.png)
 
 🚪 3. Exit Program
 
-Enter your choice: 3
-Exiting the program. Goodbye!
+![Project Output](output2and3.png)
 
 🛠️ Technologies Used
 
@@ -93,6 +63,6 @@ Nested loops| Generate patterns
 
 # Author 
 Prince Shah
-</p>Project: Logic Box
+
 Domain: Python – Data Science
 Level: Beginner
