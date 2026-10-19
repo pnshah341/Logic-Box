@@ -51,7 +51,7 @@ Replace the filename with your actual Python filename if different.
 
 📚 Concepts Learned
 
-#Concept Used
+Concept Used
 
 - "for" loop| Repeat operations
 - "while" loop| Repeat the menu
