@@ -51,15 +51,16 @@ Replace the filename with your actual Python filename if different.
 
 📚 Concepts Learned
 
-Concept| Use
-"for" loop| Repeat operations
-"while" loop| Repeat the menu
-"range()"| Generate number sequences
-Nested loops| Generate patterns
-"if-elif-else"| Make decisions
-"break"| Stop a loop
-"continue"| Skip an iteration
-"pass"| Placeholder statement
+#Concept Used
+
+- "for" loop| Repeat operations
+- "while" loop| Repeat the menu
+- "range()"| Generate number sequences
+- "Nested loops"| Generate patterns
+- "if-elif-else"| Make decisions
+- "break"| Stop a loop
+- "continue"| Skip an iteration
+- "pass"| Placeholder statement
 
 # Author 
 Prince Shah
